@@ -1,4 +1,4 @@
-<h1>Repositório Criado para os challenges de Alura</h1>
+<h1>Repositório Criado para o curso de GIT  e GITHUB do Alura</h1>
 
 > Status do projeto : Em desenvolvimento 
 
